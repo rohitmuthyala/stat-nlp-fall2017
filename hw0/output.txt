@@ -3,4 +3,4 @@ name:
    first: Rohit
    last: Muthyala
 email: rrm404@nyu.edu
-leaderboard: Rohit_Muthyala
+leaderboard: RohitRMuthyala
