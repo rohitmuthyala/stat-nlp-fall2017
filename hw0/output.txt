@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
-leaderboard: backpropper
+   first: Rohit
+   last: Muthyala
+email: rrm404@nyu.edu
+leaderboard: Rohit_Muthyala
