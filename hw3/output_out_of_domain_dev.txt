@@ -789,7 +789,7 @@ a	DT
 Steven	NNP
 ,	,
 the	DT
-one	CD
+one	NN
 word	NN
 that	WDT
 did	VBD
@@ -1012,8 +1012,8 @@ prophet	NN
 ,	,
 but	CC
 if	IN
-one	CD
-raises	NNS
+one	NN
+raises	VBZ
 doubts	NNS
 about	IN
 the	DT
@@ -1651,7 +1651,7 @@ training	NN
 
 Twenty	NNP
 -	HYPH
-one	CD
+one	NN
 weeks	NNS
 of	IN
 fighter	NN
@@ -2714,8 +2714,8 @@ Now	RB
 I	NNP
 would	MD
 argue	VB
-that	IN
-one	CD
+that	DT
+one	NN
 could	MD
 have	VB
 reasonably	RB
@@ -4002,7 +4002,7 @@ point	NN
 in	IN
 history	NN
 ,	,
-one	CD
+one	NN
 of	IN
 the	DT
 most	RBS
@@ -4621,7 +4621,7 @@ murder	NN
 not	RB
 the	DT
 next	JJ
-one	CD
+one	NN
 .	.
 
 We	PRP
@@ -5085,7 +5085,7 @@ Iraq	NNP
 ,	,
 and	CC
 no	DT
-one	CD
+one	NN
 exploded	VBD
 himself	PRP
 .	.
@@ -6107,7 +6107,7 @@ wing	NN
 "	NN
 ,	,
 the	DT
-one	CD
+one	NN
 who	WP
 pays	VBZ
 him	PRP
@@ -7660,7 +7660,7 @@ happen	VB
 after	IN
 the	DT
 present	JJ
-one	CD
+one	NN
 .	.
 
 But	CC
@@ -8179,7 +8179,7 @@ opinion	NN
 ,	,
 the	DT
 number	NN
-one	CD
+one	NN
 danger	NN
 to	IN
 the	DT
@@ -8573,7 +8573,7 @@ terror	NN
 .	.
 
 No	DT
-one	CD
+one	NN
 will	MD
 ever	RB
 know	VB
@@ -8782,7 +8782,7 @@ be	VB
 elected	VBN
 ,	,
 the	DT
-one	CD
+one	NN
 whose	WP$
 incitement	NN
 and	CC
@@ -12128,7 +12128,7 @@ well	NN
 .	.
 
 The	DT
-one	CD
+one	NN
 country	NN
 that	WDT
 has	VBZ
@@ -12199,10 +12199,10 @@ Washington	NNP
 as	IN
 the	DT
 only	JJ
-one	CD
+one	NN
 of	IN
 the	DT
-"	JJ
+"	NNP
 permanent	JJ
 five	CD
 "	NN
@@ -12573,7 +12573,7 @@ the	DT
 LTTE	NNP
 from	IN
 starting	VBG
-one	CD
+one	NN
 .	.
 
 And	CC
@@ -12871,7 +12871,7 @@ reiteration	NN
 of	IN
 the	DT
 older	JJR
-one	CD
+one	NN
 minus	IN
 its	PRP$
 military	JJ
@@ -17950,7 +17950,7 @@ lab	NN
 .	.
 
 The	DT
-"	NNP
+"	CD
 trillion	CD
 spore	NNP
 "	NN
@@ -20308,14 +20308,14 @@ explanation	NN
 .	.
 
 Once	IN
-one	CD
+one	NN
 had	VBD
 been	VBN
 received	VBN
 ,	,
 the	DT
 next	JJ
-ten	CD
+ten	NN
 ,	,
 mailed	VBN
 on	IN
@@ -21727,7 +21727,7 @@ flags	NNS
 to	IN
 the	DT
 Fallujah	NNP
-one	CD
+one	NN
 .	.
 
 You	PRP
@@ -22807,8 +22807,8 @@ property	NN
 similar	JJ
 to	IN
 the	DT
-one	CD
-that	IN
+one	NN
+that	WDT
 took	VBD
 place	NN
 last	JJ
@@ -24272,9 +24272,9 @@ choice	NN
 which	WDT
 eventually	RB
 leads	VBZ
-one	CD
-to	IN
-guess	NN
+one	NN
+to	TO
+guess	VB
 that	IN
 the	DT
 opinion	NN
@@ -24856,7 +24856,7 @@ no	DT
 possible	JJ
 way	NN
 that	IN
-one	CD
+one	NN
 can	MD
 live	VB
 without	IN

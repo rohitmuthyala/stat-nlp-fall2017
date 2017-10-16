@@ -521,7 +521,7 @@ a	DT
 proposal	NN
 like	IN
 the	DT
-one	CD
+one	NN
 from	IN
 Ways	NNP
 and	CC
@@ -1166,7 +1166,7 @@ features	VBZ
 Mary	NNP
 Farrell	NNP
 ,	,
-one	CD
+one	NN
 of	IN
 the	DT
 firm	NN
@@ -2292,7 +2292,7 @@ Stewart	NNP
 held	VBD
 the	DT
 Giants	NNP
-to	TO
+to	IN
 five	CD
 hits	NNS
 to	IN
@@ -2432,7 +2432,7 @@ an	DT
 ex-hurler	NN
 who	WP
 's	VBZ
-one	CD
+one	NN
 of	IN
 the	DT
 leading	JJ
@@ -2497,7 +2497,7 @@ with	IN
 here	RB
 says	VBZ
 that	IN
-about	RB
+about	IN
 three	CD
 of	IN
 four	CD
@@ -5996,7 +5996,7 @@ could	MD
 be	VB
 a	DT
 short	JJ
-one	CD
+one	NN
 ,	,
 ''	''
 said	VBD
@@ -6673,7 +6673,7 @@ quickly	RB
 There	EX
 may	MD
 be	VB
-one	CD
+one	NN
 or	CC
 other	JJ
 psychological	JJ
@@ -6802,7 +6802,7 @@ plunged	VBD
 %	NN
 ,	,
 a	DT
-one	CD
+one	NN
 -	HYPH
 day	NN
 record	NN
@@ -10215,7 +10215,7 @@ offer	NN
 tomorrow	NN
 to	IN
 exchange	NN
-up	IN
+up	NN
 to	IN
 one	CD
 million	CD
@@ -11701,7 +11701,7 @@ their	PRP$
 orders	NNS
 in	IN
 any	DT
-one	CD
+one	NN
 of	IN
 them	PRP
 .	.
@@ -18501,7 +18501,7 @@ Trading	NNP
 was	VBD
 heavy	JJ
 at	IN
-about	RB
+about	IN
 one	CD
 billion	CD
 shares	NNS
@@ -18991,9 +18991,9 @@ place	NN
 What	WP
 else	RB
 is	VBZ
-one	CD
-to	IN
-make	NN
+one	NN
+to	TO
+make	VB
 of	IN
 the	DT
 whacky	JJ
@@ -19143,7 +19143,7 @@ to	TO
 do	VB
 with	IN
 this	DT
-one	CD
+one	NN
 .	.
 
 Not	RB
@@ -19359,7 +19359,7 @@ de	NNP
 Kamp	NNP
 is	VBZ
 the	DT
-one	CD
+one	NN
 who	WP
 collected	VBD
 the	DT
@@ -20617,7 +20617,7 @@ course	NN
 
 But	CC
 according	VBG
-to	TO
+to	IN
 one	CD
 trader	NN
 ,	,
@@ -21319,7 +21319,7 @@ vengeance	NN
 However	RB
 ,	,
 according	VBG
-to	TO
+to	IN
 one	CD
 analyst	NN
 ,	,
@@ -23099,7 +23099,7 @@ subsidy	NN
 
 Congress	NNP
 previously	RB
-cut	VB
+cut	VBD
 six	CD
 airports	NNS
 this	DT
@@ -23857,7 +23857,7 @@ group	NN
 rose	VBD
 27	CD
 %	NN
-to	IN
+to	TO
 168.1	CD
 million	CD
 Irish	NNP
@@ -26277,7 +26277,7 @@ surge	NN
 in	IN
 pretax	JJ
 profit	NN
-to	IN
+to	TO
 61.41	CD
 billion	CD
 yen	NNS
@@ -26308,7 +26308,7 @@ Sales	NNS
 surged	VBD
 40	CD
 %	NN
-to	IN
+to	TO
 250.17	CD
 billion	CD
 yen	NN
@@ -26322,7 +26322,7 @@ income	NN
 rose	VBD
 11	CD
 %	NN
-to	IN
+to	TO
 29.62	CD
 billion	CD
 yen	NN
@@ -28490,7 +28490,7 @@ jumped	VBD
 %	NN
 last	JJ
 year	NN
-to	IN
+to	TO
 18.7	CD
 million	CD
 rolls	NNS
@@ -30024,7 +30024,7 @@ of	IN
 recessions	NNS
 and	CC
 turned	VBD
-up	RP
+up	IN
 eight	CD
 months	NNS
 before	IN
@@ -31872,7 +31872,7 @@ months	NNS
 ;	:
 7.95	CD
 %	NN
-one	CD
+one	NN
 year	NN
 .	.
 
@@ -32079,7 +32079,7 @@ months	NNS
 8	CD
 3/8	CD
 %	NN
-one	CD
+one	NN
 year	NN
 .	.
 
@@ -32237,7 +32237,7 @@ mortgages	NNS
 2	CD
 %	NN
 rate	NN
-capped	VBN
+capped	VBD
 one	CD
 -	HYPH
 year	NN
@@ -32294,7 +32294,7 @@ mortgages	NNS
 ,	,
 6/2	CD
 rate	NN
-capped	VBN
+capped	VBD
 one	CD
 -	HYPH
 year	NN
@@ -32709,7 +32709,7 @@ under	IN
 of	IN
 Burmah	NNP
 for	IN
-about	RB
+about	IN
 two	CD
 years	NNS
 .	.
@@ -37457,9 +37457,9 @@ new	JJ
 regional	JJ
 contract	NN
 and	CC
-all	RB
+all	NN
 but	CC
-one	CD
+one	NN
 of	IN
 the	DT
 local	JJ
@@ -38655,7 +38655,7 @@ chip	NN
 stocks	NNS
 colors	NNS
 each	DT
-one	CD
+one	NN
 red	NN
 when	WRB
 its	PRP$
@@ -40291,7 +40291,7 @@ judge	NN
 in	IN
 New	NNP
 York	NNP
-to	TO
+to	IN
 six	CD
 years	NNS
 in	IN
@@ -41126,7 +41126,7 @@ leading	JJ
 shirt	NN
 maker	NN
 and	CC
-one	CD
+one	NN
 of	IN
 West	NNP
 Point	NNP
@@ -42012,7 +42012,7 @@ Arrow	NNP
 U.S.	NNP
 books	NNS
 in	IN
-one	CD
+one	NN
 fell	VBD
 swoop	NN
 ,	,
@@ -42555,7 +42555,7 @@ similar	JJ
 ''	''
 to	IN
 the	DT
-one	CD
+one	NN
 he	PRP
 faced	VBD
 when	WRB
@@ -42719,7 +42719,7 @@ says	VBZ
 .	.
 
 Within	IN
-about	RB
+about	IN
 six	CD
 months	NNS
 ,	,

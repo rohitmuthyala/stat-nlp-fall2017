@@ -823,7 +823,7 @@ compared	VBN
 to	IN
 donating	VBG
 in	IN
-ten	CD
+ten	NN
 years	NNS
 .	.
 
@@ -2980,9 +2980,9 @@ It	NNP
 unbelievable	JJ
 that	IN
 no	DT
-one	CD
-can	NN
-account	NN
+one	NN
+can	MD
+account	VB
 for	IN
 200,000	CD
 assault	NN
@@ -3545,7 +3545,7 @@ himself	PRP
 After	IN
 the	DT
 sentencing	NN
-one	CD
+one	NN
 of	IN
 Robinson	NNP
 's	POS
@@ -4505,7 +4505,7 @@ damn	NN
 what	WP
 adults	NNS
 do	VBP
-to	TO
+to	IN
 one	CD
 another	DT
 as	RB
@@ -4703,7 +4703,7 @@ brother	NN
 .	.
 
 no	DT
-one	CD
+one	NN
 was	VBD
 charged	VBN
 for	IN
@@ -6172,7 +6172,7 @@ led	VBD
 him	PRP
 to	TO
 uncover	VB
-one	CD
+one	NN
 of	IN
 the	DT
 most	RBS
@@ -6340,7 +6340,7 @@ story	NN
 .	.
 
 No	DT
-one	CD
+one	NN
 can	MD
 contradict	VB
 me	PRP
@@ -6407,7 +6407,7 @@ disappearance	NN
 
 "	NNP
 No	NNP
-one	CD
+one	NN
 can	MD
 contradict	VB
 me	PRP
@@ -8452,7 +8452,7 @@ event	NN
 on	IN
 Friday	NNP
 ,	,
-one	CD
+one	NN
 of	IN
 the	DT
 questions	NNS
@@ -8899,7 +8899,7 @@ book	NN
 --	:
 I	NNP
 guess	NN
-one	CD
+one	NN
 way	NN
 ,	,
 one	CD
@@ -10139,7 +10139,7 @@ government	NN
 
 On	IN
 the	DT
-one	CD
+one	NN
 hand	NN
 ,	,
 it	PRP
@@ -10734,7 +10734,7 @@ be	VB
 dangerous	JJ
 to	TO
 take	VB
-one	CD
+one	NN
 's	POS
 eyes	NNS
 off	IN
@@ -11697,7 +11697,7 @@ even	RB
 breaking	VBG
 the	DT
 country	NN
-up	IN
+up	NN
 into	IN
 three	CD
 parts	NNS
@@ -14182,7 +14182,7 @@ on	IN
 the	DT
 US	NNP
 ,	,
-one	CD
+one	PRP
 might	MD
 well	RB
 argue	VB
@@ -15109,7 +15109,7 @@ with	IN
 us	PRP
 on	IN
 that	DT
-one	CD
+one	NN
 .	.
 
 The	DT
@@ -15479,7 +15479,7 @@ of	IN
 civilian	JJ
 mercenaries	NN
 ,	,
-one	CD
+one	NN
 of	IN
 them	PRP
 a	DT
@@ -19457,7 +19457,7 @@ item	NN
 is	VBZ
 a	DT
 small	JJ
-one	CD
+one	NN
 and	CC
 easily	RB
 missed	VBN
@@ -20973,7 +20973,7 @@ Google	NNP
 Brian	NNP
 has	VBZ
 been	VBN
-one	CD
+one	NN
 of	IN
 the	DT
 most	RBS
