@@ -16,7 +16,7 @@ lines	NNS
 with	IN
 John	NNP
 Roberts	NNP
-abstaining	VBG
+abstaining	NN
 due	JJ
 to	IN
 his	PRP$
@@ -35,7 +35,7 @@ liberals	NNS
 in	IN
 a	DT
 5	CD
--	HYPH
+-	SYM
 3	CD
 decision	NN
 that	WDT
@@ -176,7 +176,7 @@ II	NNP
 SCALIA	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -190,7 +190,7 @@ joined	VBD
 THOMAS	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -227,7 +227,7 @@ B	NNP
 ALITO	NNP
 filed	VBD
 a	DT
-dissenting	VBG
+dissenting	NN
 opinion	NN
 ,	,
 in	IN
@@ -554,8 +554,8 @@ Rauf	NNP
 ,	,
 Birmingham	NNP
 
-Ibrahim	NNP
-Savant	FW
+Ibrahim	PRP
+Savant	NN
 ,	,
 26	CD
 ,	,
@@ -704,9 +704,9 @@ Abdelhaleen	NNP
 Mississauga	NNP
 ;	:
 
-Qayyum	JJ
-Abdul	JJ
-Jamal	NN
+Qayyum	NNP
+Abdul	NNP
+Jamal	NNP
 ,	,
 43	CD
 ,	,
@@ -892,7 +892,7 @@ tables	NNS
 and	CC
 is	VBZ
 inviting	VBG
-cartoonists	NNP
+cartoonists	NNS
 to	TO
 do	VB
 their	PRP$
@@ -1256,8 +1256,8 @@ National	NNP
 Guard	NNP
 on	IN
 a	DT
-"	NN
-60	CD
+"	NNP
+60	NNP
 Minutes	NNPS
 II	NNP
 "	MD
@@ -1660,7 +1660,7 @@ interceptor	NN
 training	NN
 .	.
 
-That	DT
+That	WDT
 was	VBD
 80	CD
 weeks	NNS
@@ -1821,7 +1821,7 @@ earned	VBD
 points	NNS
 in	IN
 1969	CD
--	HYPH
+-	SYM
 1970	CD
 .	.
 
@@ -1861,7 +1861,7 @@ earned	VBD
 points	NNS
 in	IN
 1970	CD
--	HYPH
+-	SYM
 1971	CD
 .	.
 
@@ -1872,7 +1872,7 @@ earned	VBD
 points	NNS
 in	IN
 1971	CD
--	HYPH
+-	SYM
 1972	CD
 .	.
 
@@ -2164,7 +2164,7 @@ requirement	NN
 for	IN
 the	DT
 1973	CD
--	HYPH
+-	SYM
 1974	CD
 year	NN
 .	.
@@ -2687,7 +2687,7 @@ that	WDT
 they	PRP
 charge	VBP
 for	IN
-evacuating	VBG
+evacuating	NNP
 U.S.	NNP
 citizen	NN
 .	.
@@ -2855,7 +2855,7 @@ The	DT
 American	NNP
 -	HYPH
 Arab	NNP
-Discrimination	NN
+Discrimination	NNP
 Committee	NNP
 is	VBZ
 suing	VBG
@@ -3119,8 +3119,8 @@ speech	NN
 given	VBN
 by	IN
 an	DT
-Arab	NNP
-gentleman	NNP
+Arab	JJ
+gentleman	NN
 before	IN
 the	DT
 advisory	JJ
@@ -3539,7 +3539,7 @@ or	CC
 another	DT
 by	IN
 other	JJ
-Algerians	NNPS
+Algerians	NNS
 have	VBP
 nothing	NN
 to	TO
@@ -3578,7 +3578,7 @@ against	IN
 Yemen	NNS
 in	IN
 the	DT
-60's	CD
+60's	VBZ
 because	IN
 of	IN
 Israel	NNP
@@ -3842,7 +3842,7 @@ it	PRP
 was	VBD
 in	IN
 the	DT
-Western	NNP
+Western	JJ
 World	NNP
 150	CD
 years	NNS
@@ -3930,7 +3930,7 @@ Arabs	NNPS
 is	VBZ
 less	JJR
 than	IN
-that	DT
+that	IN
 of	IN
 6	CD
 million	CD
@@ -4303,7 +4303,7 @@ III	NNP
 "	NNP
 :	:
 
-*	NFP
+*	SYM
 1	CD
 .	.
 The	DT
@@ -4507,7 +4507,7 @@ cruel	JJ
 death	NN
 with	IN
 bodies	NNS
-dismembered	VBN
+dismembered	JJ
 and	CC
 horrible	JJ
 severe	JJ
@@ -4870,7 +4870,7 @@ beliefs	NNS
 
 No	DT
 Moslem	NNP
-preacher	NN
+preacher	NNP
 has	VBZ
 ever	RB
 blown	VBN
@@ -5221,7 +5221,7 @@ eliminate	VB
 organized	VBN
 crime	NN
 by	IN
-arresting	JJ
+arresting	VBG
 the	DT
 little	JJ
 drug	NN
@@ -5403,7 +5403,7 @@ be	VB
 achieved	VBN
 .	.
 
-*	NFP
+*	SYM
 2	CD
 .	.
 The	DT
@@ -6217,7 +6217,7 @@ his	PRP$
 successors	NNS
 .	.
 
-*	NFP
+*	SYM
 3	CD
 .	.
 The	DT
@@ -6848,7 +6848,7 @@ retail	JJ
 level	NN
 .	.
 
-*	NFP
+*	SYM
 4	CD
 .	.
 The	DT
@@ -7147,8 +7147,8 @@ strip	VB
 every	DT
 woman	NN
 because	IN
-one	CD
-pretended	VBN
+one	PRP
+pretended	VBD
 to	TO
 be	VB
 pregnant	JJ
@@ -7350,7 +7350,7 @@ him	PRP
 as	IN
 a	DT
 great	JJ
-dignitary	JJ
+dignitary	NN
 .	.
 
 I	PRP
@@ -8158,8 +8158,8 @@ plan	NN
 was	VBD
 actually	RB
 to	IN
-encircle	NN
-both	DT
+encircle	NNP
+both	CC
 Iran	NNP
 and	CC
 Syria	NNP
@@ -8655,7 +8655,7 @@ France	NNP
 who	WP
 is	VBZ
 now	RB
-expelling	JJ
+expelling	VBG
 inciting	VBG
 preachers	NNS
 and	CC
@@ -9109,7 +9109,7 @@ the	DT
 past	JJ
 25	CD
 years	NNS
-landlocked	JJ
+landlocked	VBD
 Afghanistan	NNP
 has	VBZ
 suffered	VBN
@@ -9257,7 +9257,7 @@ and	CC
 Western	JJ
 leaders	NNS
 of	IN
-harbouring	VBG
+harbouring	IN
 Taliban	JJ
 extremists	NNS
 who	WP
@@ -9414,7 +9414,7 @@ to	TO
 have	VB
 asked	VBN
 a	DT
-flustered	VBN
+flustered	JJ
 Musharraf	NN
 .	.
 
@@ -10553,7 +10553,7 @@ made	VBN
 possible	JJ
 after	IN
 the	DT
-ousting	VBG
+ousting	NN
 of	IN
 Ismail	NNP
 Khan	NNP
@@ -10670,7 +10670,7 @@ the	DT
 Americans	NNPS
 have	VBP
 moved	VBN
-over	RP
+over	IN
 100	CD
 Special	JJ
 Forces	NNS
@@ -11826,7 +11826,7 @@ Vienna	NNP
 
 Despite	IN
 many	JJ
-wrinkles	VBZ
+wrinkles	NNS
 ,	,
 India	NNP
 remains	VBZ
@@ -13343,8 +13343,8 @@ including	VBG
 army	NN
 chief	JJ
 General	NNP
-Nirmal	JJ
-Chander	NN
+Nirmal	NNP
+Chander	NNP
 Vij	NNP
 have	VBP
 "	RB
@@ -13877,7 +13877,7 @@ navy	NN
 "	NN
 .	.
 
-Deteriorating	JJ
+Deteriorating	NN
 security	NN
 
 Security	NNP
@@ -13981,7 +13981,7 @@ but	CC
 a	DT
 multitude	NN
 of	IN
-secessionist	JJ
+secessionist	NN
 ,	,
 terrorist	JJ
 and	CC
@@ -14175,10 +14175,10 @@ Indonesia	NNP
 and	CC
 Malaysia	NNP
 have	VBP
-migrated	VBD
+migrated	VBN
 temporarily	RB
-to	TO
-plunder	VB
+to	IN
+plunder	IN
 the	DT
 natural	JJ
 resources	NNS
@@ -14573,7 +14573,7 @@ nationals	NNS
 against	IN
 rebels	NNS
 ,	,
-secessionists	NNPS
+secessionists	NNS
 ,	,
 drug	NN
 runners	NNS
@@ -14664,7 +14664,7 @@ black	JJ
 eye	NN
 in	IN
 the	DT
-mid-1980s	CD
+mid-1980s	NNS
 ,	,
 has	VBZ
 been	VBN
@@ -15668,7 +15668,7 @@ Operandi	NNP
 and	CC
 Opportunity	NNP
 
-Homeland	NN
+Homeland	NNP
 Security	NNP
 
 In	IN
@@ -16381,7 +16381,7 @@ going	VBG
 to	TO
 fly	VB
 a	DT
-5th	CD
+5th	JJ
 plane	NN
 into	IN
 the	DT
@@ -16661,7 +16661,7 @@ of	IN
 that	DT
 surveillance	NN
 in	IN
-early	JJ
+early	RB
 2001	CD
 that	IN
 Jafar	RB
@@ -17187,7 +17187,7 @@ in	IN
 Iran	NNP
 .	.
 
-Wherever	WRB
+Wherever	RB
 he	PRP
 is	VBZ
 ,	,
@@ -17317,7 +17317,7 @@ for	IN
 Information	NNP
 Analysis	NNP
 ,	,
-Homeland	NN
+Homeland	NNP
 Security	NNP
 Department	NNP
 testified	VBD
@@ -17407,7 +17407,7 @@ seed	NN
 product	NN
 in	IN
 its	PRP$
-unweaponized	VBN
+unweaponized	JJ
 form	NN
 ,	,
 since	IN
@@ -17675,7 +17675,7 @@ to	TO
 be	VB
 recorded	VBN
 prior	JJ
-to	TO
+to	IN
 1997	CD
 .	.
 
@@ -17779,7 +17779,7 @@ a	DT
 match	NN
 from	IN
 16	CD
-to	TO
+to	IN
 4	CD
 but	CC
 can	MD
@@ -17886,7 +17886,7 @@ as	IN
 large	JJ
 as	IN
 40	CD
--	HYPH
+-	SYM
 100	CD
 microns	NNS
 .	.
@@ -18531,9 +18531,9 @@ has	VBZ
 a	DT
 PhD	NN
 from	IN
-Brandeis	NNP
+Brandeis	NN
 in	IN
-neurology	NNP
+neurology	NN
 .	.
 
 The	DT
@@ -20452,7 +20452,7 @@ jail	NN
 in	IN
 the	DT
 early	JJ
-1980s	CD
+1980s	NNS
 ,	,
 Zawahiri	NNP
 caused	VBD
@@ -20625,7 +20625,7 @@ theater	NN
 
 A	DT
 sender	NN
-purporting	NN
+purporting	VBG
 to	TO
 be	VB
 islamist	NN
@@ -21831,7 +21831,7 @@ participate	VB
 in	IN
 the	DT
 scheduled	VBN
-upcoming	VBG
+upcoming	JJ
 Parliamentary	JJ
 elections	NNS
 .	.
@@ -22127,7 +22127,7 @@ Americans	NNPS
 hostage	NN
 throughout	IN
 the	DT
-80's	CD
+80's	NNP
 and	CC
 now	RB
 they	PRP
@@ -22541,8 +22541,8 @@ now	RB
 helicopters	NNS
 have	VBP
 been	VBN
-circling	VBG
-over	RP
+circling	NN
+over	IN
 our	PRP$
 heads	NNS
 non-stop	NN
@@ -22605,7 +22605,7 @@ shooting	VBG
 their	PRP$
 AK	NNP
 -	HYPH
-47's	CD
+47's	NNP
 in	IN
 the	DT
 air	NN
@@ -22739,9 +22739,9 @@ some	DT
 talk	NN
 that	IN
 April	NNP
-9th	CD
+9th	JJ
 and	CC
-10th	CD
+10th	JJ
 are	VBP
 going	VBG
 to	TO
@@ -23467,7 +23467,7 @@ be	VB
 able	JJ
 to	TO
 protect	VB
-all	PDT
+all	DT
 5,000	CD
 (	(
 or	CC
@@ -23546,7 +23546,7 @@ campaigning	NN
 One	CD
 minister	NN
 reportedly	RB
-handed	VBN
+handed	VBD
 out	RP
 100	CD
 dollar	NN
@@ -24563,7 +24563,7 @@ and	CC
 reconciliation	NN
 to	IN
 the	DT
-dissenting	VBG
+dissenting	NN
 parties	NNS
 .	.
 
