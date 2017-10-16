@@ -789,7 +789,7 @@ a	DT
 Steven	NNP
 ,	,
 the	DT
-one	NN
+one	CD
 word	NN
 that	WDT
 did	VBD
@@ -1012,8 +1012,8 @@ prophet	NN
 ,	,
 but	CC
 if	IN
-one	NN
-raises	VBZ
+one	CD
+raises	NNS
 doubts	NNS
 about	IN
 the	DT
@@ -1256,7 +1256,7 @@ National	NNP
 Guard	NNP
 on	IN
 a	DT
-"	CD
+"	NNP
 60	CD
 Minutes	NNP
 II	NNP
@@ -1651,7 +1651,7 @@ training	NN
 
 Twenty	NNP
 -	HYPH
-one	NN
+one	CD
 weeks	NNS
 of	IN
 fighter	NN
@@ -1909,7 +1909,7 @@ That	DT
 brings	VBZ
 the	DT
 story	NN
-to	TO
+to	IN
 May	NNP
 1972	CD
 -	HYPH
@@ -2043,9 +2043,9 @@ jobs	NNS
 .	.
 
 In	IN
-'72	NNP
+'72	CD
 or	CC
-'73	NN
+'73	CD
 ,	,
 if	IN
 you	PRP
@@ -2714,8 +2714,8 @@ Now	RB
 I	NNP
 would	MD
 argue	VB
-that	DT
-one	NN
+that	IN
+one	CD
 could	MD
 have	VB
 reasonably	RB
@@ -3578,7 +3578,7 @@ against	IN
 Yemen	NNP
 in	IN
 the	DT
-60's	NN
+60's	CD
 because	IN
 of	IN
 Israel	NNP
@@ -4002,7 +4002,7 @@ point	NN
 in	IN
 history	NN
 ,	,
-one	NN
+one	CD
 of	IN
 the	DT
 most	RBS
@@ -4303,7 +4303,7 @@ III	NNP
 "	NNP
 :	:
 
-*	SYM
+*	NFP
 1	CD
 .	.
 The	NNP
@@ -4409,7 +4409,7 @@ accidents	NNS
 .	.
 
 September	NNP
-11	NNP
+11	CD
 was	VBD
 quantitatively	NN
 much	RB
@@ -4621,7 +4621,7 @@ murder	NN
 not	RB
 the	DT
 next	JJ
-one	NN
+one	CD
 .	.
 
 We	PRP
@@ -5085,7 +5085,7 @@ Iraq	NNP
 ,	,
 and	CC
 no	DT
-one	NN
+one	CD
 exploded	VBD
 himself	PRP
 .	.
@@ -5403,7 +5403,7 @@ be	VB
 achieved	VBN
 .	.
 
-*	SYM
+*	NFP
 2	CD
 .	.
 The	NNP
@@ -5505,9 +5505,9 @@ world	NN
 believe	VBP
 that	IN
 September	NNP
-11	NNP
+11	CD
 never	RB
-happened	VBD
+happened	VBN
 ,	,
 or	CC
 was	VBD
@@ -6107,7 +6107,7 @@ wing	NN
 "	NN
 ,	,
 the	DT
-one	NN
+one	CD
 who	WP
 pays	VBZ
 him	PRP
@@ -6217,7 +6217,7 @@ his	PRP$
 successors	NNS
 .	.
 
-*	SYM
+*	NFP
 3	CD
 .	.
 The	NNP
@@ -7660,7 +7660,7 @@ happen	VB
 after	IN
 the	DT
 present	JJ
-one	NN
+one	CD
 .	.
 
 But	CC
@@ -8179,7 +8179,7 @@ opinion	NN
 ,	,
 the	DT
 number	NN
-one	NN
+one	CD
 danger	NN
 to	IN
 the	DT
@@ -8573,7 +8573,7 @@ terror	NN
 .	.
 
 No	DT
-one	NN
+one	CD
 will	MD
 ever	RB
 know	VB
@@ -8782,7 +8782,7 @@ be	VB
 elected	VBN
 ,	,
 the	DT
-one	NN
+one	CD
 whose	WP$
 incitement	NN
 and	CC
@@ -10938,7 +10938,7 @@ soil	NN
 
 Pakistan	NNP
 Link	NNP
-16/10/2004	NNP
+16/10/2004	CD
 
 Unreported	JJ
 by	IN
@@ -12128,7 +12128,7 @@ well	NN
 .	.
 
 The	DT
-one	NN
+one	CD
 country	NN
 that	WDT
 has	VBZ
@@ -12199,10 +12199,10 @@ Washington	NNP
 as	IN
 the	DT
 only	JJ
-one	NN
+one	CD
 of	IN
 the	DT
-"	NNP
+"	JJ
 permanent	JJ
 five	CD
 "	NN
@@ -12255,7 +12255,7 @@ India	NNP
 
 Washington	NNP
 Times	NNP
-28/10/2004	NNP
+28/10/2004	CD
 
 Tamils	NNS
 feel	VBP
@@ -12573,7 +12573,7 @@ the	DT
 LTTE	NNP
 from	IN
 starting	VBG
-one	NN
+one	CD
 .	.
 
 And	CC
@@ -12871,7 +12871,7 @@ reiteration	NN
 of	IN
 the	DT
 older	JJR
-one	NN
+one	CD
 minus	IN
 its	PRP$
 military	JJ
@@ -13551,7 +13551,7 @@ situation	NN
 Asia	NNP
 Times	NNP
 Online	NNP
-16/11/2004	NNP
+16/11/2004	CD
 
 +	NNP
 As	NNP
@@ -14664,7 +14664,7 @@ black	JJ
 eye	NN
 in	IN
 the	DT
-mid-1980s	NNS
+mid-1980s	CD
 ,	,
 has	VBZ
 been	VBN
@@ -15825,7 +15825,7 @@ June	NNP
 2004	CD
 ,	,
 the	DT
-9/11	NNP
+9/11	CD
 Commission	NNP
 Staff	NNP
 concluded	VBD
@@ -16371,7 +16371,7 @@ final	JJ
 stages	NNS
 of	IN
 the	DT
-9/11	JJ
+9/11	CD
 plot	NN
 ,	,
 Zacarias	NNP
@@ -16381,7 +16381,7 @@ going	VBG
 to	TO
 fly	VB
 a	DT
-5th	JJ
+5th	CD
 plane	NN
 into	IN
 the	DT
@@ -16443,7 +16443,7 @@ was	VBD
 to	IN
 last	JJ
 up	NN
-to	IN
+to	TO
 6	CD
 months	NNS
 .	.
@@ -16464,7 +16464,7 @@ to	TO
 be	VB
 part	NN
 of	IN
-9/11	NN
+9/11	CD
 but	CC
 was	VBD
 to	TO
@@ -17145,7 +17145,7 @@ US	NNP
 should	MD
 expect	VB
 another	DT
-9/11	NN
+9/11	CD
 on	IN
 US	NNP
 soil	NN
@@ -17323,7 +17323,7 @@ Department	NNP
 testified	VBD
 before	IN
 the	DT
-9/11	NNP
+9/11	CD
 Commission	NNP
 .	.
 
@@ -17675,7 +17675,7 @@ to	TO
 be	VB
 recorded	VBN
 prior	JJ
-to	IN
+to	TO
 1997	CD
 .	.
 
@@ -17779,7 +17779,7 @@ a	DT
 match	NN
 from	IN
 16	CD
-to	IN
+to	TO
 4	CD
 but	CC
 can	MD
@@ -17950,7 +17950,7 @@ lab	NN
 .	.
 
 The	DT
-"	CD
+"	NNP
 trillion	CD
 spore	NNP
 "	NN
@@ -18125,7 +18125,7 @@ Yazid	NNP
 Sufaat	NNP
 met	VBD
 with	IN
-9/11	NN
+9/11	CD
 plotters	NNS
 and	CC
 two	CD
@@ -18271,7 +18271,7 @@ wave	NN
 "	</S>
 
 After	IN
-9/11	NNP
+9/11	CD
 ,	,
 Yazid	NNP
 Sufaat	NNP
@@ -18556,7 +18556,7 @@ in	IN
 late	JJ
 March	NNP
 or	CC
-early	RB
+early	JJ
 April	NNP
 2003	CD
 .	.
@@ -20308,14 +20308,14 @@ explanation	NN
 .	.
 
 Once	IN
-one	NN
+one	CD
 had	VBD
 been	VBN
 received	VBN
 ,	,
 the	DT
 next	JJ
-ten	NN
+ten	CD
 ,	,
 mailed	VBN
 on	IN
@@ -20377,7 +20377,7 @@ Quetta	NNP
 ,	,
 Pakistan	NNP
 in	IN
-mid-February	CD
+mid-February	NNP
 2003	CD
 .	.
 
@@ -20452,7 +20452,7 @@ jail	NN
 in	IN
 the	DT
 early	JJ
-1980s	NNS
+1980s	CD
 ,	,
 Zawahiri	NNP
 caused	VBD
@@ -20718,7 +20718,7 @@ in	IN
 which	WDT
 they	PRP
 admitted	VBD
-9/11	NN
+9/11	CD
 ,	,
 and	CC
 described	VBD
@@ -20747,7 +20747,7 @@ for	IN
 representing	VBG
 the	DT
 date	NN
-9/11	NN
+9/11	CD
 ,	,
 and	CC
 used	VBD
@@ -21221,9 +21221,9 @@ sources	NNS
 Second	NNP
 ,	,
 hindsight	NN
-is	VBZ
+is	NNS
 20	CD
-/	NNP
+/	SYM
 20	CD
 .	.
 
@@ -21727,7 +21727,7 @@ flags	NNS
 to	IN
 the	DT
 Fallujah	NNP
-one	NN
+one	CD
 .	.
 
 You	PRP
@@ -21876,7 +21876,7 @@ forth	RB
 in	IN
 UNSC	NNP
 Resolution	NNP
-1559	NNP
+1559	CD
 ,	,
 which	WDT
 has	VBZ
@@ -21944,7 +21944,7 @@ Over	IN
 three	CD
 years	NNS
 after	IN
-9-11	NNP
+9-11	CD
 ,	,
 the	DT
 United	NNP
@@ -22127,7 +22127,7 @@ Americans	NNP
 hostage	NN
 throughout	IN
 the	DT
-80's	NN
+80's	CD
 and	CC
 now	RB
 they	PRP
@@ -22605,7 +22605,7 @@ shooting	VBG
 their	PRP$
 AK	NNP
 -	HYPH
-47's	NN
+47's	CD
 in	IN
 the	DT
 air	NN
@@ -22739,9 +22739,9 @@ some	DT
 talk	NN
 that	IN
 April	NNP
-9th	NNP
+9th	CD
 and	CC
-10th	JJ
+10th	CD
 are	VBP
 going	VBG
 to	TO
@@ -22807,8 +22807,8 @@ property	NN
 similar	JJ
 to	IN
 the	DT
-one	NN
-that	WDT
+one	CD
+that	IN
 took	VBD
 place	NN
 last	JJ
@@ -23547,7 +23547,7 @@ One	CD
 minister	NN
 reportedly	RB
 handed	VBN
-out	IN
+out	RP
 100	CD
 dollar	NN
 '	POS
@@ -24272,9 +24272,9 @@ choice	NN
 which	WDT
 eventually	RB
 leads	VBZ
-one	NN
-to	TO
-guess	VB
+one	CD
+to	IN
+guess	NN
 that	IN
 the	DT
 opinion	NN
@@ -24856,7 +24856,7 @@ no	DT
 possible	JJ
 way	NN
 that	IN
-one	NN
+one	CD
 can	MD
 live	VB
 without	IN

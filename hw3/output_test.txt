@@ -563,7 +563,7 @@ Warren	NNP
 Buffett	NNP
 is	VBZ
 giving	VBG
-away	RB
+away	RP
 85	CD
 %	NN
 of	IN
@@ -823,13 +823,13 @@ compared	VBN
 to	IN
 donating	VBG
 in	IN
-ten	NN
+ten	CD
 years	NNS
 .	.
 
 Because	IN
 the	DT
-10.000.000	NN
+10.000.000	CD
 people	NNS
 dying	VBG
 from	IN
@@ -1702,7 +1702,7 @@ smuggle	VB
 explosives	NNS
 .	.
 
-http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	NNP
+http://www.amazon.ca/exec/obidos/ASIN/0915765381/701-3377456-8181939	CD
 
 I	PRP
 've	VBP
@@ -1974,14 +1974,14 @@ a	DT
 declaration	NN
 on	IN
 February	NNP
-3rd	NNP
+3rd	CD
 ,	,
 1983	CD
 ,	,
 that	IN
 on	IN
 November	NNP
-8th	JJ
+8th	CD
 ,	,
 1982	CD
 ,	,
@@ -2016,7 +2016,7 @@ his	PRP$
 activities	NNS
 after	IN
 February	NNP
-28th	JJ
+28th	CD
 ,	,
 1971	CD
 ,	,
@@ -2056,7 +2056,7 @@ since	IN
 retiring	VBG
 .	.
 
-http://www.disinfo.com/archive/pages/dossier/id334/pg1/	NNP
+http://www.disinfo.com/archive/pages/dossier/id334/pg1/	CD
 
 Last	JJ
 week	NN
@@ -2106,9 +2106,9 @@ government	NN
 .	.
 '	''
 
-http://www.bigeye.com/111003.htm	NNP
+http://www.bigeye.com/111003.htm	CD
 
-http://www.thekcrachannel.com/news/4503872/detail.html	NNP
+http://www.thekcrachannel.com/news/4503872/detail.html	CD
 
 looks	NNS
 like	IN
@@ -2980,9 +2980,9 @@ It	NNP
 unbelievable	JJ
 that	IN
 no	DT
-one	NN
-can	MD
-account	VB
+one	CD
+can	NN
+account	NN
 for	IN
 200,000	CD
 assault	NN
@@ -3017,7 +3017,7 @@ guns	NNS
 ,	,
 from	IN
 the	DT
-90s	NNP
+90s	CD
 Bosnian	NNP
 war	NN
 ,	,
@@ -3545,7 +3545,7 @@ himself	PRP
 After	IN
 the	DT
 sentencing	NN
-one	NN
+one	CD
 of	IN
 Robinson	NNP
 's	POS
@@ -3898,7 +3898,7 @@ from	IN
 mainstream	NN
 Mormonism	NNP
 in	IN
-1890	NN
+1890	CD
 .	.
 
 ...	:
@@ -4305,7 +4305,7 @@ communities	NNS
 .	.
 "	NN
 
-http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	NNP
+http://www.csmonitor.com/2006/0509/p02s01-ussc.html?s=t5	CD
 
 Maybe	RB
 I	NNP
@@ -4505,7 +4505,7 @@ damn	NN
 what	WP
 adults	NNS
 do	VBP
-to	IN
+to	TO
 one	CD
 another	DT
 as	RB
@@ -4703,7 +4703,7 @@ brother	NN
 .	.
 
 no	DT
-one	NN
+one	CD
 was	VBD
 charged	VBN
 for	IN
@@ -4911,7 +4911,7 @@ officials	NNS
 say	VBP
 ...	:
 
-http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	NNP
+http://www.rawstory.com/news/2006/US_outsourcing_special_operations_intelligence_gathering_0413.html	CD
 
 A	DT
 country	NN
@@ -5353,7 +5353,7 @@ that	DT
 priest	NN
 conviction	NN
 :	:
-http://www.sploid.com/news/2006/05/evil_priest_gui.php	NNP
+http://www.sploid.com/news/2006/05/evil_priest_gui.php	CD
 
 Umm	NN
 ...	:
@@ -5408,7 +5408,7 @@ like	IN
 that	DT
 .	.
 
-http://www.laweekly.com/general/features/satan-loves-you/13454/	NNP
+http://www.laweekly.com/general/features/satan-loves-you/13454/	CD
 
 "	NNP
 Another	NNP
@@ -6106,7 +6106,7 @@ wilt	NN
 "	NN
 .	.
 
-http://youtube.com/watch?v=d46_ctqDmI4	NNP
+http://youtube.com/watch?v=d46_ctqDmI4	CD
 
 To	IN
 not	RB
@@ -6157,7 +6157,7 @@ of	IN
 morality	NN
 :	:
 
-http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	NNP
+http://news.bbc.co.uk/2/hi/programmes/this_world/4446342.stm	CD
 
 One	CD
 man	NN
@@ -6172,7 +6172,7 @@ led	VBD
 him	PRP
 to	TO
 uncover	VB
-one	NN
+one	CD
 of	IN
 the	DT
 most	RBS
@@ -6340,7 +6340,7 @@ story	NN
 .	.
 
 No	DT
-one	NN
+one	CD
 can	MD
 contradict	VB
 me	PRP
@@ -6407,7 +6407,7 @@ disappearance	NN
 
 "	NNP
 No	NNP
-one	NN
+one	CD
 can	MD
 contradict	VB
 me	PRP
@@ -6756,7 +6756,7 @@ movements	NNS
 of	IN
 the	DT
 early	JJ
-20th	JJ
+20th	CD
 Century	NNP
 (	(
 except	IN
@@ -6785,7 +6785,7 @@ of	IN
 '	''
 degenerate	VB
 art	NN
-'	POS
+'	''
 in	IN
 1937	CD
 ,	,
@@ -6875,7 +6875,7 @@ Max	NNP
 Nordau	NNP
 and	CC
 a	DT
-1892	JJ
+1892	CD
 book	NN
 he	PRP
 authored	VBN
@@ -7137,7 +7137,7 @@ information	NN
 
 http://en.wikipedia.org/wiki/John_Balance	NNP
 
-http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	NNP
+http://www.guardian.co.uk/obituaries/story/0,3604,1371372,00.html	CD
 
 Balance	NNP
 died	VBD
@@ -7403,7 +7403,7 @@ George	NNP
 Bush	NNP
 ?	.
 
-http://www.thetruthseeker.co.uk/article.asp?id=4503	NNP
+http://www.thetruthseeker.co.uk/article.asp?id=4503	CD
 
 I	PRP
 do	VBP
@@ -7572,7 +7572,7 @@ of	IN
 scandals	NNS
 :	:
 
-http://www.dailykos.com/story/2006/5/12/232746/857	NNP
+http://www.dailykos.com/story/2006/5/12/232746/857	CD
 
 =	SYM
 Executive	NNP
@@ -7629,7 +7629,7 @@ Bush	NNP
 revoke	VB
 Executive	NNP
 Order	NNP
-13011	NN
+13011	CD
 today	NN
 ?	.
 
@@ -7642,7 +7642,7 @@ May	NNP
 ,	,
 2006	CD
 at	IN
-08:27:46	NNP
+08:27:46	CD
 PM	NNP
 PDT	NNP
 
@@ -7668,16 +7668,16 @@ Amendments	NNP
 to	IN
 Executive	NNP
 Orders	NNP
-11030	NNP
+11030	CD
 ,	,
-13279	NNP
+13279	CD
 ,	,
-13339	NNP
+13339	CD
 ,	,
-13381	NNP
+13381	CD
 ,	,
 and	CC
-13389	NN
+13389	CD
 ,	,
 and	CC
 ***	NNP
@@ -7686,7 +7686,7 @@ Revocation	NNP
 of	IN
 Executive	NNP
 Order	NNP
-13011	NNP
+13011	CD
 ....	NNP
 
 I	PRP
@@ -8452,7 +8452,7 @@ event	NN
 on	IN
 Friday	NNP
 ,	,
-one	NN
+one	CD
 of	IN
 the	DT
 questions	NNS
@@ -8899,7 +8899,7 @@ book	NN
 --	:
 I	NNP
 guess	NN
-one	NN
+one	CD
 way	NN
 ,	,
 one	CD
@@ -10139,7 +10139,7 @@ government	NN
 
 On	IN
 the	DT
-one	NN
+one	CD
 hand	NN
 ,	,
 it	PRP
@@ -10734,7 +10734,7 @@ be	VB
 dangerous	JJ
 to	TO
 take	VB
-one	NN
+one	CD
 's	POS
 eyes	NNS
 off	IN
@@ -10978,8 +10978,8 @@ go	VB
 quietly	RB
 .	.
 
-See	NNP
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NNP
+See	VB
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	CD
 
 In	IN
 the	DT
@@ -11697,7 +11697,7 @@ even	RB
 breaking	VBG
 the	DT
 country	NN
-up	NN
+up	IN
 into	IN
 three	CD
 parts	NNS
@@ -12613,7 +12613,7 @@ as	RB
 in	IN
 the	DT
 late	JJ
-1980s	NNS
+1980s	CD
 ,	,
 he	PRP
 reportedly	RB
@@ -12655,7 +12655,7 @@ Iraq	NNP
 By	IN
 the	DT
 late	JJ
-1990s	NNS
+1990s	CD
 ,	,
 Iraq	NNP
 had	VBD
@@ -13376,11 +13376,11 @@ Web	NNP
 posted	VBD
 at	IN
 :	:
-3:29	JJ
+3:29	CD
 p.m.	NN
 EST	NNP
 (	(
-2029	NNP
+2029	CD
 GMT	NNP
 )	)
 
@@ -14182,7 +14182,7 @@ on	IN
 the	DT
 US	NNP
 ,	,
-one	PRP
+one	CD
 might	MD
 well	RB
 argue	VB
@@ -14384,7 +14384,7 @@ have	VB
 tried	VBN
 to	TO
 stop	VB
-9/11	NN
+9/11	CD
 if	IN
 he	PRP
 had	VBD
@@ -14589,7 +14589,7 @@ there	EX
 was	VBD
 a	DT
 10	CD
-to	IN
+to	TO
 50	CD
 %	NN
 chance	NN
@@ -14668,8 +14668,8 @@ that	WDT
 had	VBD
 trained	VBN
 the	DT
-9/11	NNP
-hijackers	NNP
+9/11	CD
+hijackers	NN
 and	CC
 other	JJ
 terrorists	NNS
@@ -15109,7 +15109,7 @@ with	IN
 us	PRP
 on	IN
 that	DT
-one	NN
+one	CD
 .	.
 
 The	DT
@@ -15479,7 +15479,7 @@ of	IN
 civilian	JJ
 mercenaries	NN
 ,	,
-one	NN
+one	CD
 of	IN
 them	PRP
 a	DT
@@ -15835,7 +15835,7 @@ All	NNP
 Things	NNP
 Considered	NNP
 (	(
-8:00	NNP
+8:00	CD
 PM	NNP
 ET	NNP
 )	)
@@ -15874,7 +15874,7 @@ lieutenant	NN
 in	IN
 the	DT
 early	JJ
-1970s	NNS
+1970s	CD
 .	.
 
 For	IN
@@ -16416,10 +16416,10 @@ he	PRP
 would	MD
 ordinarily	RB
 leave	VB
-around	IN
-5:30	NNP
+around	RP
+5:30	CD
 or	CC
-6:00	NN
+6:00	CD
 in	IN
 the	DT
 evening	NN
@@ -16439,7 +16439,7 @@ election	NN
 in	IN
 September	NNP
 of	IN
-'72	NNP
+'72	CD
 ,	,
 Red	NNP
 Blount	NNP
@@ -16891,7 +16891,7 @@ that	IN
 someone	NN
 in	IN
 their	PRP$
-mid-20s	NNP
+mid-20s	CD
 would	MD
 initiate	VB
 conversations	NNS
@@ -17273,7 +17273,7 @@ early	JJ
 zeroes	NN
 of	IN
 the	DT
-21st	JJ
+21st	CD
 century	NN
 .	.
 
@@ -17379,8 +17379,8 @@ the	DT
 5,000	CD
 -	HYPH
 strong	JJ
-"	JJ
-55th	JJ
+"	NNP
+55th	CD
 Brigade	NNP
 "	NN
 of	IN
@@ -18651,7 +18651,7 @@ Palestinian	NNP
 territories	NNS
 during	IN
 the	DT
-1990s	NNS
+1990s	CD
 helped	VBD
 ,	,
 along	RB
@@ -18865,7 +18865,7 @@ that	IN
 they	PRP
 had	VBD
 busted	VBN
-up	IN
+up	RP
 3	CD
 terrorist	JJ
 cells	NNS
@@ -18925,7 +18925,7 @@ bombers	NNS
 back	RB
 in	IN
 the	DT
-1960s	NNS
+1960s	CD
 .	.
 
 The	DT
@@ -19457,7 +19457,7 @@ item	NN
 is	VBZ
 a	DT
 small	JJ
-one	NN
+one	CD
 and	CC
 easily	RB
 missed	VBN
@@ -20315,43 +20315,43 @@ learned	VBD
 
 http://www.ibiblio.org/expo/soviet.exhibit/chernobyl.html	NNP
 
-http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	NNP
+http://www.ibrae.ac.ru/IBRAE/eng/chernobyl/nat_rep/nat_repe.htm#24	CD
 
 http://www.nsrl.ttu.edu/chernobyl/wildlifepreserve.htm	NNP
 
-http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	NNP
+http://www.environmentalchemistry.com/yogi/hazmat/articles/chernobyl1.html	CD
 
 http://digon_va.tripod.com/Chernobyl.htm	NNP
 
-http://www.oneworld.org/index_oc/issue196/byckau.html	NNP
+http://www.oneworld.org/index_oc/issue196/byckau.html	CD
 
 http://www.collectinghistory.net/chernobyl/	NNP
 
 http://www.ukrainianweb.com/chernobyl_ukraine.htm	NNP
 
-http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	NNP
+http://www.bullatomsci.org/issues/1993/s93/s93Marples.html	CD
 
-http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	NNP
+http://www.calguard.ca.gov/ia/Chernobyl-15%20years.htm	CD
 
 http://www.infoukes.com/history/chornobyl/gregorovich/index.html	NNP
 
 http://www.un.org/ha/chernobyl/	NNP
 
-http://www.tecsoc.org/pubs/history/2002/apr26.htm	NNP
+http://www.tecsoc.org/pubs/history/2002/apr26.htm	CD
 
-http://www.chernobyl.org.uk/page2.htm	NNP
+http://www.chernobyl.org.uk/page2.htm	CD
 
-http://www.time.com/time/daily/chernobyl/860901.accident.html	NNP
+http://www.time.com/time/daily/chernobyl/860901.accident.html	CD
 
 http://www.infoukes.com/history/chornobyl/elg/	NNP
 
-http://www.world-nuclear.org/info/chernobyl/inf07.htm	NNP
+http://www.world-nuclear.org/info/chernobyl/inf07.htm	CD
 
-http://www.nea.fr/html/rp/chernobyl/conclusions5.html	NNP
+http://www.nea.fr/html/rp/chernobyl/conclusions5.html	CD
 
-http://www.nea.fr/html/rp/chernobyl/c01.html	NNP
+http://www.nea.fr/html/rp/chernobyl/c01.html	CD
 
-http://www.nea.fr/html/rp/chernobyl/c05.html	NNP
+http://www.nea.fr/html/rp/chernobyl/c05.html	CD
 
 http://www.physics.isu.edu/radinf/chern.htm	NNP
 
@@ -20361,7 +20361,7 @@ http://www.arps.org.au/Chernobyl.htm	NNP
 
 http://www-formal.stanford.edu/jmc/progress/chernobyl.html	NNP
 
-http://www.21stcenturysciencetech.com/articles/chernobyl.html	NNP
+http://www.21stcenturysciencetech.com/articles/chernobyl.html	CD
 
 I	PRP
 would	MD
@@ -20391,7 +20391,7 @@ a	DT
 child	NN
 in	IN
 the	DT
-50's	NNP
+50's	CD
 I	NNP
 had	VBD
 a	DT
@@ -20973,7 +20973,7 @@ Google	NNP
 Brian	NNP
 has	VBZ
 been	VBN
-one	NN
+one	CD
 of	IN
 the	DT
 most	RBS
