@@ -1634,7 +1634,7 @@ Notes	NNS
 ...	:
 .	.
 
-ARNOLD	VB
+ARNOLD	NNP
 ADVERTISING	NNP
 :	:
 
@@ -1943,7 +1943,7 @@ mean	NN
 and	CC
 the	DT
 mean	JJ
-ol'	''
+ol'	NN
 law	NN
 caught	VBN
 up	RP
@@ -2452,7 +2452,7 @@ it	PRP
 dives	VBZ
 beneath	IN
 the	DT
-lunging	JJ
+lunging	NN
 bat	NN
 .	.
 
@@ -2586,7 +2586,7 @@ relative	JJ
 calm	NN
 .	.
 
-Partisans	NNPS
+Partisans	NNS
 of	IN
 the	DT
 two	CD
@@ -2729,7 +2729,7 @@ latter	NN
 although	IN
 it	PRP
 probably	RB
-springs	VBZ
+springs	NNS
 from	IN
 the	DT
 fact	NN
@@ -2804,7 +2804,7 @@ fans	NNS
 and	CC
 only	RB
 the	DT
-suicidal	JJ
+suicidal	NN
 would	MD
 bifurcate	VB
 their	PRP$
@@ -2843,7 +2843,7 @@ Walt	NNP
 Weiss	NNP
 ,	,
 a	DT
-twiggy	JJ
+twiggy	NN
 -	HYPH
 looking	VBG
 ,	,
@@ -3195,7 +3195,7 @@ But	CC
 the	DT
 old	JJ
 Dodger	NNP
-slugger	NN
+slugger	NNP
 wisely	RB
 offered	VBD
 no	DT
@@ -3767,7 +3767,7 @@ to	IN
 the	DT
 poor	JJ
 ,	,
-maligned	VBN
+maligned	JJ
 analysts	NNS
 whose	WP$
 ability	NN
@@ -3853,7 +3853,7 @@ n't	RB
 that	IN
 be	VB
 a	DT
-novelty	NNP
+novelty	NN
 .	.
 
 Phyllis	NNP
@@ -4967,7 +4967,7 @@ Streeter	NNP
 and	CC
 trader	NN
 Sam	NNP
-Ruiz	NN
+Ruiz	NNP
 bought	VBD
 them	PRP
 to	TO
@@ -7312,7 +7312,7 @@ price	NN
 unless	IN
 the	DT
 market	NN
-recovers	VBZ
+recovers	NNS
 quickly	RB
 .	.
 
@@ -7501,7 +7501,7 @@ before	IN
 ''	''
 said	VBD
 Michel	NNP
-Vigier	JJR
+Vigier	NNP
 ,	,
 a	DT
 partner	NN
@@ -7929,7 +7929,7 @@ also	RB
 remain	VB
 classified	VBN
 as	IN
-non-accruing	VBG
+non-accruing	NN
 ,	,
 costing	VBG
 the	DT
@@ -9043,7 +9043,7 @@ a	DT
 manner	NN
 as	RB
 is	VBZ
-warranted	JJ
+warranted	VBN
 .	.
 ''	''
 
@@ -9507,7 +9507,7 @@ of	IN
 Pacific	NNP
 salmon	NN
 and	CC
-herring	VBG
+herring	NN
 violate	VB
 the	DT
 accord	NN
@@ -10993,7 +10993,7 @@ up	RB
 cents	NNS
 .	.
 
-Seafirst	JJ
+Seafirst	NNP
 Corp.	NNP
 said	VBD
 it	PRP
@@ -11012,7 +11012,7 @@ building	NN
 ,	,
 the	DT
 Columbia	NNP
-Seafirst	JJ
+Seafirst	NNP
 Center	NNP
 ,	,
 for	IN
@@ -11847,7 +11847,7 @@ are	VBP
 in	IN
 place	NN
 that	IN
-synchronize	VB
+synchronize	NN
 circuit	NN
 breakers	NNS
 in	IN
@@ -12762,7 +12762,7 @@ walls	NNS
 ,	,
 polished	JJ
 and	CC
-carpeted	VBD
+carpeted	JJ
 floors	NNS
 ,	,
 bought	VBD
@@ -13633,7 +13633,7 @@ Fried	NNP
 Chicken	NNP
 Inc.	NNP
 and	CC
-Popeye	NN
+Popeye	NNP
 's	POS
 Famous	NNP
 Fried	NNP
@@ -14165,7 +14165,7 @@ recognition	NN
 
 Retailer	NN
 Sees	NNS
-Pitfalls	VBZ
+Pitfalls	NNS
 In	IN
 Environmental	NNP
 Push	VBP
@@ -14478,7 +14478,7 @@ study	NN
 by	IN
 Safeway	NNP
 's	POS
-Scanner	NN
+Scanner	NNP
 Marketing	NNP
 Research	NNP
 shows	VBZ
@@ -15759,7 +15759,7 @@ And	CC
 Bills	NNS
 to	TO
 Make	VB
-Wishes	VBZ
+Wishes	NNS
 Come	VBN
 True	JJ
 ''	''
@@ -16057,7 +16057,7 @@ Friday	NNP
 
 The	DT
 grand	JJ
-marshal	NNP
+marshal	NN
 of	IN
 this	DT
 parade	NN
@@ -16922,7 +16922,7 @@ but	CC
 they	PRP
 rode	VBD
 the	DT
-tiger	NNP
+tiger	NN
 up	IN
 all	DT
 year	NN
@@ -17911,7 +17911,7 @@ broad	JJ
 market	NN
 .	.
 
-Nobuto	NN
+Nobuto	NNP
 Yasuda	NNP
 ,	,
 a	DT
@@ -18536,9 +18536,9 @@ crash	NN
 .	.
 
 Richard	NNP
-Chenevix	NN
+Chenevix	NNP
 -	HYPH
-Trench	JJ
+Trench	NNP
 ,	,
 a	DT
 director	NN
@@ -18605,9 +18605,9 @@ In	IN
 Australia	NNP
 ,	,
 Sydney	NNP
-'s	VBZ
+'s	POS
 All	DT
-Ordinaries	NNS
+Ordinaries	NN
 index	NN
 closed	VBD
 at	IN
@@ -18667,9 +18667,9 @@ like	JJ
 ''	''
 as	IN
 investors	NNS
-fled	VBN
-to	IN
-bluechip	NN
+fled	VBD
+to	TO
+bluechip	VB
 Australian	JJ
 stocks	NNS
 and	CC
@@ -19461,7 +19461,7 @@ for	IN
 the	DT
 Van	NNP
 de	NNP
-Kamp	NN
+Kamp	NNP
 initiative	NN
 (	(
 on	IN
@@ -20370,7 +20370,7 @@ keeping	VBG
 the	DT
 market	NN
 orderly	JJ
-groped	JJ
+groped	NN
 to	TO
 find	VB
 buy	NN
@@ -22921,7 +22921,7 @@ and	CC
 Continental	NNP
 .	.
 
-Leery	JJ
+Leery	NN
 of	IN
 the	DT
 costs	NNS
@@ -23987,7 +23987,7 @@ market	NN
 ''	''
 said	VBD
 Joel	NNP
-Kazis	NNS
+Kazis	NNP
 ,	,
 manager	NN
 of	IN
@@ -25908,7 +25908,7 @@ of	IN
 Triborough	IN
 Bridge	NNP
 and	CC
-Tunnel	NN
+Tunnel	NNP
 Authority	NNP
 of	IN
 New	NNP
@@ -26938,7 +26938,7 @@ year	NN
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 Co.	NNP
 said	VBD
 it	PRP
@@ -26959,7 +26959,7 @@ tender	NN
 offer	NN
 for	IN
 International	NNP
-Banknote	NN
+Banknote	NNP
 Co.	NNP
 to	IN
 Nov.	NNP
@@ -26967,7 +26967,7 @@ Nov.	NNP
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 it	PRP
 is	VBZ
@@ -27009,7 +27009,7 @@ sale	NN
 .	.
 
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 said	VBD
 it	PRP
 believes	VBZ
@@ -27032,7 +27032,7 @@ Justice	NNP
 Department	NNP
 about	IN
 U.S.	NNP
-Banknote	NN
+Banknote	NNP
 's	POS
 offer	NN
 to	TO
@@ -27157,7 +27157,7 @@ or	CC
 ,	,
 of	IN
 International	NNP
-Banknote	NN
+Banknote	NNP
 's	POS
 shares	NNS
 outstanding	JJ
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	VBG
+resurging	NN
 market	NN
 ,	,
 reviving	VBG
@@ -28217,7 +28217,7 @@ recently	RB
 signed	VBD
 Olympic	NNP
 gold	NN
-medalist	NNP
+medalist	NN
 Florence	NNP
 Griffith	NNP
 -	HYPH
@@ -29166,7 +29166,7 @@ n't	RB
 made	VBN
 the	DT
 same	JJ
-quantum	NNP
+quantum	NN
 leaps	NNS
 in	IN
 technological	JJ
@@ -29415,7 +29415,7 @@ $	$
 million	CD
 .	.
 
-McClatchy	JJ
+McClatchy	NN
 publishes	VBZ
 the	DT
 Sacramento	NNP
@@ -32453,7 +32453,7 @@ and	CC
 engineers	NNS
 .	.
 
-Alliant	JJ
+Alliant	NN
 ,	,
 based	VBN
 in	IN
@@ -32491,7 +32491,7 @@ problem	NN
 simultaneously	RB
 .	.
 
-Alliant	NNP
+Alliant	NN
 said	VBD
 it	PRP
 plans	VBZ
@@ -32546,8 +32546,8 @@ division	NN
 from	IN
 closely	RB
 held	VBN
-Sterile	JJ
-Products	NNPS
+Sterile	IN
+Products	NNP
 Corp.	NNP
 for	IN
 $	$
@@ -33655,7 +33655,7 @@ was	VBD
 openly	RB
 sympathetic	JJ
 to	IN
-SWAPO	NN
+SWAPO	NNP
 and	CC
 indeed	RB
 had	VBD
@@ -36019,7 +36019,7 @@ earnings	NNS
 to	IN
 $	$
 41.8	CD
-millon	NNP
+millon	CD
 ,	,
 or	CC
 66	CD
@@ -36396,12 +36396,12 @@ of	IN
 its	PRP$
 previously	RB
 discovered	VBN
-Intan	NN
-Field	NN
+Intan	NNP
+Field	NNP
 in	IN
 the	DT
 southeast	NN
-Sumatra	NNP
+Sumatra	JJ
 area	NN
 of	IN
 Indonesia	NNP
@@ -36434,7 +36434,7 @@ about	RB
 miles	NNS
 from	IN
 the	DT
-Intan	NN
+Intan	NNP
 Field	NNP
 ,	,
 because	IN
@@ -36474,7 +36474,7 @@ oil	NN
 .	.
 
 The	DT
-Intan	NN
+Intan	NNP
 Field	NNP
 has	VBZ
 estimated	VBN
@@ -36519,9 +36519,9 @@ the	DT
 new	JJ
 field	NN
 ,	,
-called	VBN
+called	VBD
 Northeast	NNP
-Intan	NN
+Intan	NNP
 .	.
 
 Other	JJ
@@ -36550,7 +36550,7 @@ G.m.b	NNP
 .	.
 H.	NNP
 ,	,
-Hispanoil	NN
+Hispanoil	NNP
 (	(
 Sumatra	NNP
 )	)
@@ -36580,7 +36580,7 @@ TCR	NNP
 Sumat	NNP
 A.G.	NNP
 and	CC
-Warrior	NN
+Warrior	NNP
 Oil	NNP
 Co	NNP
 .	.
@@ -36804,7 +36804,7 @@ from	IN
 %	NN
 .	.
 
-Memotec	JJ
+Memotec	NNP
 Data	NNP
 Inc.	NNP
 said	VBD
@@ -36868,7 +36868,7 @@ Montreal	NNP
 Exchange	NNP
 trading	NN
 ,	,
-Memotec	JJ
+Memotec	NNP
 closed	VBD
 unchanged	JJ
 at	IN
@@ -36881,7 +36881,7 @@ US$	$
 )	)
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 under	IN
 the	DT
@@ -36919,7 +36919,7 @@ that	DT
 purpose	NN
 .	.
 
-Memotec	JJ
+Memotec	NNP
 is	VBZ
 a	DT
 Montreal	NNP
@@ -36938,7 +36938,7 @@ computer	NN
 services	NNS
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 the	DT
 agreement	NN
@@ -36986,7 +36986,7 @@ stake	NN
 in	IN
 ISI	NNP
 to	IN
-Memotec	JJ
+Memotec	NNP
 upon	IN
 completion	NN
 of	IN
@@ -37005,7 +37005,7 @@ and	CC
 debentures	NNS
 .	.
 
-Memotec	JJ
+Memotec	NNP
 said	VBD
 the	DT
 tender	NN
@@ -37074,7 +37074,7 @@ if	IN
 a	DT
 better	JJR
 bid	NN
-surfaces	VBZ
+surfaces	NNS
 .	.
 
 CMS	NNP
@@ -37674,7 +37674,7 @@ hunting	NN
 
 Among	IN
 those	DT
-sighing	VBG
+sighing	NN
 with	IN
 relief	NN
 was	VBD
@@ -39063,7 +39063,7 @@ Morris	NNP
 General	NNP
 Motors	NNPS
 and	CC
-Proctor	NN
+Proctor	NNP
 &	CC
 Gamble	NNP
 led	VBD
@@ -39304,7 +39304,7 @@ Typical	JJ
 perhaps	RB
 ,	,
 was	VBD
-Batterymarch	NN
+Batterymarch	NNP
 's	POS
 Dean	NNP
 LeBaron	NNP
@@ -41679,8 +41679,8 @@ coup	NN
 Mr.	NNP
 Fromstein	NNP
 ousted	VBD
-Antony	JJ
-Berry	NN
+Antony	NNP
+Berry	NNP
 as	IN
 Blue	NNP
 Arrow	NNP
@@ -41933,7 +41933,7 @@ came	VBD
 from	IN
 Alice	NNP
 's	POS
-wonderland	NNP
+wonderland	NN
 ,	,
 ''	''
 Mr.	NNP
