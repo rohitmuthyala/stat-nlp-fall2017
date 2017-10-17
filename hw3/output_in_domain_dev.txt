@@ -1518,8 +1518,8 @@ market	NN
 seems	VBZ
 to	TO
 be	VB
-straightening	JJ
-out	NN
+straightening	VBG
+out	RB
 ;	:
 we	PRP
 're	VBP
@@ -2248,12 +2248,12 @@ A	NN
 -	HYPH
 men	NNS
 batting	NN
-Nos.	IN
+Nos.	NNP
 6	CD
 through	IN
 9	CD
 ,	,
-a.k.a.	NN
+a.k.a.	JJ
 the	DT
 ``	``
 bottom	NN
@@ -9857,7 +9857,7 @@ Thought	NNP
 To	TO
 spend	VB
 a	DT
-carefree	JJ
+carefree	NN
 ,	,
 idle	JJ
 day	NN
@@ -12336,7 +12336,7 @@ for	IN
 the	DT
 minor	JJ
 league	NN
-Bluefield	NNP
+Bluefield	NN
 ,	,
 Va.	NNP
 ,	,
@@ -12351,7 +12351,7 @@ team	NN
 The	DT
 players	NNS
 were	VBD
-heckled	VBN
+heckled	JJ
 by	IN
 a	DT
 patron	NN
@@ -12419,8 +12419,8 @@ trouble	NN
 began	VBD
 .	.
 
-More	RBR
-taunting	JJ
+More	JJR
+taunting	NN
 in	IN
 the	DT
 parking	NN
@@ -12669,7 +12669,7 @@ subsidized	JJ
 housing	NN
 .	.
 
-TREATING	JJ
+TREATING	NN
 EMPLOYEES	NN
 with	IN
 respect	NN
@@ -13923,9 +13923,9 @@ Soft	RB
 Sell	VB
 Spots	NNS
 
-CALL	JJ
+CALL	NN
 IT	PRP
-un-advertising	VBP
+un-advertising	VBG
 .	.
 
 Pittsburgh	NNP
@@ -14266,7 +14266,7 @@ example	NN
 ,	,
 it	PRP
 recommends	VBZ
-nonchlorinated	JJ
+nonchlorinated	VBN
 dishwasher	NN
 detergent	NN
 and	CC
@@ -19119,7 +19119,7 @@ Council	NNP
 ,	,
 the	DT
 National	NNP
-Toxics	NNP
+Toxics	NNPS
 Campaign	NNP
 and	CC
 the	DT
@@ -19491,8 +19491,8 @@ should	MD
 be	VB
 called	VBN
 The	DT
-Big	NNP
-Greenback	NNP
+Big	JJ
+Greenback	NN
 .	.
 
 (	(
@@ -21042,7 +21042,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	JJ
 your	PRP$
 offers	NNS
 ''	''
@@ -21064,7 +21064,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	VBN
+bedlam	NN
 on	IN
 the	DT
 upside	NN
@@ -23612,7 +23612,7 @@ its	PRP$
 legislature	NN
 ,	,
 the	DT
-Sejm	NNP
+Sejm	NN
 ,	,
 in	IN
 democratic	JJ
@@ -27032,7 +27032,7 @@ Justice	NNP
 Department	NNP
 about	IN
 U.S.	NNP
-Banknote	NNP
+Banknote	NN
 's	POS
 offer	NN
 to	TO
@@ -27094,7 +27094,7 @@ arrangements	NNS
 .	.
 
 U.S.	NNP
-Banknote	NNP
+Banknote	NN
 said	VBD
 Citibank	NNP
 extended	VBD
@@ -27157,14 +27157,14 @@ or	CC
 ,	,
 of	IN
 International	NNP
-Banknote	NNP
+Banknote	NN
 's	POS
 shares	NNS
 outstanding	JJ
 .	.
 
 U.S.	NNP
-Banknote	NNP
+Banknote	NN
 said	VBD
 that	IN
 as	IN
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	VBG
+resurging	JJ
 market	NN
 ,	,
 reviving	VBG
@@ -28182,7 +28182,7 @@ Donald	NNP
 Franz	NNP
 of	IN
 Photofinishing	NNP
-Newsletter	NNP
+Newsletter	NN
 .	.
 
 Also	RB
@@ -28729,7 +28729,7 @@ His	PRP$
 On	NNP
 -	HYPH
 Broadway	NNP
-Photography	NNP
+Photography	NN
 studio	NN
 in	IN
 Portland	NNP
@@ -28937,7 +28937,7 @@ color	NN
 labs	NNS
 .	.
 
-Intent	NNP
+Intent	NN
 on	IN
 wooing	VBG
 customers	NNS
@@ -32365,9 +32365,9 @@ microprocessor	NN
 .	.
 
 The	DT
-i860	CD
+i860	NNP
 ,	,
-introduced	VBN
+introduced	VBD
 earlier	RBR
 this	DT
 year	NN
@@ -32616,7 +32616,7 @@ under	IN
 the	DT
 trade	NN
 name	NN
-ACCO	NN
+ACCO	NNP
 and	CC
 supplies	VBZ
 the	DT
@@ -35446,7 +35446,7 @@ it	PRP
 .	.
 ''	''
 
-FARM	NN
+FARM	NNP
 PRODUCTS	NNS
 :	:
 
@@ -36999,7 +36999,7 @@ combination	NN
 of	IN
 cash	NN
 ,	,
-Memotec	NNP
+Memotec	JJ
 stock	NN
 and	CC
 debentures	NNS
@@ -39222,7 +39222,7 @@ the	DT
 cry	NN
 was	VBD
 ``	``
-Pull	VB
+Pull	JJ
 your	PRP$
 offers	NNS
 ''	''
@@ -39244,7 +39244,7 @@ shares	NNS
 ``	``
 It	PRP
 was	VBD
-bedlam	VBN
+bedlam	NN
 on	IN
 the	DT
 upside	NN
